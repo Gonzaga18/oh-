@@ -13,6 +13,17 @@ oh
 ohyeah
 oh 
 oh
+<<<<<<< Updated upstream
 >>>>>>> main
 got 
 oh
+=======
+asdfds
+>>>>>>> Stashed changes
+oh
+adsf
+asd
+sadas
+asd
+adsf
+baaayyyoooo
