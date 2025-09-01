@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 fsd
 asdsadsdfasdf
 
 gwapo ko
+=======
+fsdfasdf
+
+ohyeah
+oh 
+oh
+>>>>>>> main
